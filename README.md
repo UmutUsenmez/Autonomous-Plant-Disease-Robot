@@ -52,7 +52,7 @@ The model was trained for **120 epochs** on approximately **10,000 labeled insta
 
 ## 🗺️ Roadmap
 - [x] Phase 1: Robust Leaf Detection — Completed
-- [ ] Phase 2: Disease Classification — Completed
+- [ ] Phase 2: Disease Classification — Completed (https://github.com/UmutUsenmez/Disease-Diagnosis-Module)
 - [ ] Phase 3: AI-Driven Treatment Recommendation and Reporting
 ---
 
@@ -61,5 +61,6 @@ The model was trained for **120 epochs** on approximately **10,000 labeled insta
 Mechatronics Engineering Student at **Yıldız Technical University**  
 Focus: **AI · Computer Vision · Robotics**
 EOF
+
 
 
